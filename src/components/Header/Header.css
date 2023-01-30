@@ -1,0 +1,21 @@
+.header {
+   margin: 18px 0;
+}
+.flex {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.avatar {
+   width: 64px;
+   margin-left: 56px;
+}
+
+.nav {
+   gap: 200px;
+   font-weight: 600;
+   color: var(--color-pmr);
+   font-size: 18px;
+   cursor: pointer;
+}
