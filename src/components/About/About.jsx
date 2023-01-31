@@ -7,13 +7,14 @@ const About = () => {
                What is Eagle Moon ?
             </div>
             <p>
-               Eagle Moon is a meme project built on the Binance Smart Chain
-               platform.
+               <span className="title-gradient">Eagle Moon</span> is a meme
+               project built on the Binance Smart Chain platform.
             </p>
             <p>
-               Eagle Moon Token was formed on the idea of building a community
-               to protect wildlife around the world. With 1% of the investor’s
-               trade will be allocated to the World Wildlife Fund.
+               <span className="title-gradient">Eagle Moon Token</span> was
+               formed on the idea of building a community to protect wildlife
+               around the world. With 1% of the investor’s trade will be
+               allocated to the World Wildlife Fund.
             </p>
             <div className="sub-content">
                <p>

@@ -27,3 +27,9 @@ body {
    box-shadow: 0 3px 5px var(--color-pmr);
    color: white;
 }
+
+.title-gradient {
+   background: -webkit-linear-gradient(left, #1c2026 35%, #7246ef 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}

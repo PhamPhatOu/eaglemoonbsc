@@ -6,14 +6,14 @@ const Header = () => {
       <div className="flex header">
          <div className="flex nav">
             <a href="#about">About</a>
-            <div>Partners</div>
+            <a href="#partners">Partners</a>
          </div>
          <div>
             <img src={logo} alt="avatar" className="avatar" />
          </div>
          <div className="flex nav">
-            <div>Tokenomics</div>
-            <div>Roadmap</div>
+            <a href="#tokenomics">Tokenomics</a>
+            <a href="#roadmap">Roadmap</a>
          </div>
       </div>
    );

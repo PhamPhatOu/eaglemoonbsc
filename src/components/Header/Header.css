@@ -19,3 +19,7 @@
    font-size: 18px;
    cursor: pointer;
 }
+
+.nav a:hover {
+   opacity: 80%;
+}
