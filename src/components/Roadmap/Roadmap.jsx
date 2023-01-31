@@ -106,7 +106,7 @@ const Roadmap = () => {
             </div>
          </div>
          <div className="whitepaper">
-            <a href="/">Whitepaper</a>
+            <a href="https://eagle-moon-token.gitbook.io/eagle-moon-token-wiki/" >Whitepaper</a>
          </div>
       </div>
    );
