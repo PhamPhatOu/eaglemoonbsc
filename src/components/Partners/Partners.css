@@ -1,0 +1,23 @@
+#partners {
+   padding-top: 60px;
+   margin-bottom: 120px;
+}
+.container-logo {
+   display: grid;
+   grid-template-columns: auto auto auto;
+   margin-top: 36px;
+   gap: 40px;
+}
+.logo-items {
+   background: white;
+   border-radius: 8px;
+   height: 150px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   box-shadow: 0 3px 3px white;
+}
+
+.logo-items > img {
+   width: 260px;
+}

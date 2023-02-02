@@ -1,1 +1,4 @@
-# eaglemoonbsc
+```
+npm install
+yarn start
+```

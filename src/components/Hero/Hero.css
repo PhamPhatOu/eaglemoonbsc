@@ -1,0 +1,49 @@
+.main {
+   text-align: center;
+}
+
+.title {
+   padding-top: 84px;
+   font-size: 120px;
+   font-weight: 700;
+   color: var(--color-pmr);
+}
+.slogan {
+   margin-top: -24px;
+   font-size: 20px;
+   font-weight: 500;
+   color: var(--color-pmr);
+   color: white;
+}
+
+.button {
+   background: var(--color-pmr);
+   display: inline-block;
+   padding: 18px 48px;
+   margin: 120px 0;
+   color: white;
+   font-weight: 600;
+   font-size: 20px;
+   border-radius: 8px;
+   transition: 0.5s ease;
+}
+
+.button:hover {
+   background: linear-gradient(to top, #1c2026 -30%, #7246ef);
+}
+
+.hero-illus {
+   position: absolute;
+   top: 18px;
+   left: 50%;
+   transform: translate(-50%, 0);
+   opacity: 0.8;
+   z-index: -2;
+}
+
+.scrolldown {
+   text-align: center;
+   font-size: 18px;
+   color: white;
+   opacity: 0.8;
+}

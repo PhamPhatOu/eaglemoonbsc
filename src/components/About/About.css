@@ -1,0 +1,27 @@
+#about {
+   padding-top: 54px;
+   margin: 80px 0 140px 0;
+}
+
+.content {
+   background: white;
+   text-align: left;
+   padding: 40px;
+   border-radius: 8px;
+   font-size: 18px;
+   position: relative;
+   font-weight: 500;
+   line-height: 1.8;
+}
+
+.about-title {
+   position: absolute;
+   top: -32px;
+   left: 50%;
+   transform: translate(-50%, 0);
+}
+
+.sub-content {
+   margin-left: 12px;
+   margin-top: 12px;
+}
